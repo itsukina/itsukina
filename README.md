@@ -1,4 +1,4 @@
-| <a><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=itsukina&show_icons=true&include_all_commits=false&theme=transparent&count_private=true&hide_border=true"/></a> | <a><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itsukina&&hide=html,css,go,javascript&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jejunely&show_icons=true&include_all_commits=false&theme=transparent&count_private=true&hide_border=true"/></a> | <a><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jejunely&&hide=html,css,go,javascript&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
